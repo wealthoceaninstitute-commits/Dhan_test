@@ -7,6 +7,7 @@
     "api_secret": "b6679dbc-105a-441d-83dd-0ab732f05b70",
     "totpkey": "JUEIPOYCZRBFGJOF3SAPZEVVNS3QIOA5",
     "capital": 10000,
-    "session_active": true,
-    "access_token": ""
+    "session_active": false,
+    "access_token": "",
+    "last_token_check": "2025-12-12T14:05:44.280802Z"
 }
