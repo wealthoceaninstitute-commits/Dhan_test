@@ -8,5 +8,6 @@
     "totpkey": "JUEIPOYCZRBFGJOF3SAPZEVVNS3QIOA5",
     "capital": 10000,
     "session_active": false,
-    "access_token": ""
+    "access_token": "",
+    "last_token_check": "2025-12-12T13:22:28.675084Z"
 }
