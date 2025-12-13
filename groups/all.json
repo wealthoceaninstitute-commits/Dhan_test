@@ -1,0 +1,11 @@
+{
+    "id": "all",
+    "name": "all",
+    "multiplier": 1.0,
+    "members": [
+        {
+            "broker": "dhan",
+            "userid": "1100214737"
+        }
+    ]
+}
