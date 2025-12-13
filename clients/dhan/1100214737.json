@@ -7,6 +7,7 @@
     "api_secret": "b6679dbc-105a-441d-83dd-0ab732f05b70",
     "totpkey": "JUEIPOYCZRBFGJOF3SAPZEVVNS3QIOA5",
     "capital": 10000,
-    "session_active": false,
-    "access_token": ""
+    "session_active": true,
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNzY1NzAxNDMzLCJhcHBfaWQiOiI2NWZjN2M2NyIsImlhdCI6MTc2NTYxNTAzMywidG9rZW5Db25zdW1lclR5cGUiOiJBUFAiLCJ3ZWJob29rVXJsIjoiaHR0cHM6Ly9tdWx0aWJyb2tlci10cmFkZXItbXVsdGl1c2VyLWJhY2tlbmQub25yZW5kZXIuY29tL2RoYW4vcG9zdGJhY2siLCJkaGFuQ2xpZW50SWQiOiIxMTAwMjE0NzM3In0.HzdrTzosy6NInSJqUNrhMHu3CvnsKzrkIiA4TtGxDj4dLH22ocdo88nbhWlbxv5LHxhiOvv4wdcTAg6--zZT9w",
+    "last_token_check": "2025-12-13T08:37:15.410394Z"
 }
